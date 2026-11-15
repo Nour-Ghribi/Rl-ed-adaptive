@@ -1,0 +1,21 @@
+# Large local datasets and archives
+*.zip
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook checkpoints and generated outputs
+.ipynb_checkpoints/
+outputs/
+
+# Environment files
+.env
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
